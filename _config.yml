@@ -109,6 +109,17 @@ content:
         description: | # this will include new lines to allow paragraphs
             I collaborated with a team of four other Teaching Assistants to develop supplemental course content for over 130 MBA and BBA students taking Negotiations at Emory University's Goizueta Business School. Student assignments were evaluated for knowledge gaps and individualized, actionable steps were given as feedback for improved course concept comprehension and retention. In addition I designed and led study/review sessions for all students throughout the semester. 
 
+      - layout: left
+        title: Emory University
+        link: https://goizueta.emory.edu/
+        link_text: goizueta.emory.edu
+        sub_title: Teaching Assistant
+        caption: August 2021 - December 2021
+        quote: >
+          This is just a placeholder quote but something cooler and more relevant will go here soon.
+        description: | # this will include new lines to allow paragraphs
+            I collaborated with a team of four other Teaching Assistants to develop supplemental course content for over 130 MBA and BBA students taking Negotiations at Emory University's Goizueta Business School. Student assignments were evaluated for knowledge gaps and individualized, actionable steps were given as feedback for improved course concept comprehension and retention. In addition I designed and led study/review sessions for all students throughout the semester. 
+
 
 
 
@@ -123,7 +134,7 @@ content:
         quote: >
           Emory University is a leading research institution guided by its mission to "create, preserve, teach, and apply knowledge in the service of humanity." Emory graduates creative thinkers, problem solvers, and exceptional leaders who work to address some of the world's most complex issues.
         description: | # this will include new lines to allow paragraphs
-          I am currently a 5th year undergraduate pursuing majors in *Organization Management* and *Sociology.* In addition I am pursuing a secondary area depth in *Business and Society.*
+          I am currently a 5th year Undergrad pursuing a double major in *Organization Management* and *Sociology.* In addition, I am pursuing a secondary area depth in *Business and Society.*
 
           Outside of class I dedicate most of my time to *TableTalk Emory* and *WMRE - Emory Radio.* I am proud to have served as a former *Co-President* of *TableTalk Emory* and the current *President* of our student radio station. 
   - title: A Little More About Me
