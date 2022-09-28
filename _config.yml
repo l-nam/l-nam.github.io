@@ -57,20 +57,21 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Personal Website
+        link: https://github.com/l-nam/
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  l-nam/peronsal website
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: https://github.com/l-nam/l-nam.github.io
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          The one and only Lauren Namer personal website.
+
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          I started this project to learn <mark>Git</mark> as well as have another way to connect with people! I plan to continue updating this project as a means of testing and tracking my progress self teaching <mark>Git</mark> and as a record of other projects and experiences.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
