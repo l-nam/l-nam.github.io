@@ -73,6 +73,23 @@ content:
         description: | # this will include new lines to allow paragraphs
           I started this project to learn <mark>Git</mark> as well as have another way to connect with people! I plan to continue updating this project as a means of testing and tracking my progress self teaching <mark>Git</mark> and as a record of other projects and experiences.
 
+      - layout: top-middle
+        title: Swét
+        #link: https://github.com/l-nam/
+        # link_text: Project Website
+        additional_links:
+          #- title:  l-nam/peronsal website
+          #  icon: fab fa-github
+           # url: https://github.com/l-nam/l-nam.github.io
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Fitness For You.
+
+        description: | # this will include new lines to allow paragraphs
+          Swét was a personalized fitness app idea aimed to radically disrupt the personal training industry by providing low-cost with unmatched customization. Though Swét never made it beyond a mock up, the project gave me hands-on experience with <mark>customer segmentation, competitive analysis, user research, and marketing.</mark>
+
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
