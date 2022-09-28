@@ -35,8 +35,8 @@ additional_links:
   icon: fas fa-globe
   url: https://l-nam.github.io
 - title: calendly
-   icon: fas fa-calendar-days
-   url: https://calendly.com/namerlauren/30min
+  icon: fas fa-calendae-days
+  url: https://calendly.com/namerlauren/30min
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
