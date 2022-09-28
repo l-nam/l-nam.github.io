@@ -71,7 +71,7 @@ content:
           The one and only Lauren Namer personal website.
 
         description: | # this will include new lines to allow paragraphs
-          I started this project to learn <mark>Git</mark> as well as have another way to connect with people! I plan to continue updating this site as a means of testing and tracking my progress self teaching <mark>Git</mark> and as a record of other projects and experiences.
+          I started this project to learn <mark>Git</mark> as well as have another way to connect with people! I plan to continue updating this site as a means of testing and tracking my progress self teaching <mark>Git</mark> and as a home for other projects, experiences and ideas.
 
       - layout: top-middle
         title: Swét
