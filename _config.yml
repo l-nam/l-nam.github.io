@@ -101,7 +101,7 @@ content:
       - layout: left
         title: Goizueta Business School
         link: https://goizueta.emory.edu/
-        link_text: goizueta.emory.edu/
+        link_text: goizueta.emory.edu
         sub_title: Teaching Assistant
         caption: August 2021 - December 2021
         quote: >
@@ -117,16 +117,15 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Emory University Goizueta Business School
+        caption: 2018 - 2023
+        sub_title: BBA Organization Management | Sociology
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Emory University is a leading research institution guided by its mission to "create, preserve, teach, and apply knowledge in the service of humanity." Emory graduates creative thinkers, problem solvers, and exceptional leaders who work to address some of the world's most complex issues.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          I am currently a 5th year undergraduate pursuing majors in *Organization Management* and *Sociology.* In addition I am pursuing a secondary area depth in *Business and Society.*
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
+          Outside of class I dedicate most of my time to *TableTalk Emory* and *WMRE - Emory Radio.* I am proud to have served as a former *Co-President* of *TableTalk Emory* and the current *President* of our student radio station. 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
