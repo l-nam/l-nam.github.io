@@ -107,7 +107,7 @@ content:
         quote: >
           This is just a placeholder quote but something cooler and more relevant will go here soon.
         description: | # this will include new lines to allow paragraphs
-            I collaborated with a team of four other Teaching Assistants to develop supplemental course content for <mark>over 130</mark> MBA and BBA students taking Negotiations at Emory University's Goizueta Business School. Student assignments were evaluated for knowledge gaps and individualized, actionable steps were given as feedback for improved course concept comprehension and retention. In addition I designed and led study/review sessions for all students throughout the semester. 
+            I collaborated with a team of four other Teaching Assistants to develop supplemental course content for over 130 MBA and BBA students taking Negotiations at Emory University's Goizueta Business School. Student assignments were evaluated for knowledge gaps and individualized, actionable steps were given as feedback for improved course concept comprehension and retention. In addition I designed and led study/review sessions for all students throughout the semester. 
 
       - layout: left
         title: Emory University
@@ -119,6 +119,17 @@ content:
           Increased vaccine access through human-centered problem solving.
         description: | # this will include new lines to allow paragraphs
             Myself and a team of BBA and MSBA students analyzed and modeled various social drivers of vaccine hesitency amongst Emory University's employee population. Once key drivers were identified, our analysis was used in conjunction with social science theory to develop a COVID-19 education and vaccination campaign targeting employees of Emory University.
+
+      - layout: left
+        title: Hospicall
+        #link: https://emory.edu/
+        #link_text: emory.edu
+        sub_title: Intern
+        caption: June 2020 - August 2020
+        quote: >
+          Improved healthcare outcomes through medical technology.
+        description: | # this will include new lines to allow paragraphs
+            I supported a med-tech startup focused in reducing nurse response times via our product Hospicall. I developed models to determine the benefits and costs associated with various incorporation methods as well as pitch decks for successful acceptance into Hubspot's ELEVATE growth accelerator. While attending ELEVATE I advanced my understandings of <mark>pitch design, go-to market strategy, and customer acquisition.</mark>
 
 
 
