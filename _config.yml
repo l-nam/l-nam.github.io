@@ -111,14 +111,14 @@ content:
 
       - layout: left
         title: Emory University
-        link: https://goizueta.emory.edu/
-        link_text: goizueta.emory.edu
-        sub_title: Teaching Assistant
-        caption: August 2021 - December 2021
+        link: https://emory.edu/
+        link_text: emory.edu
+        sub_title: Consultant
+        caption: June 2021 - August 2021
         quote: >
-          This is just a placeholder quote but something cooler and more relevant will go here soon.
+          Increased vaccine access through human-centered problem solving.
         description: | # this will include new lines to allow paragraphs
-            I collaborated with a team of four other Teaching Assistants to develop supplemental course content for over 130 MBA and BBA students taking Negotiations at Emory University's Goizueta Business School. Student assignments were evaluated for knowledge gaps and individualized, actionable steps were given as feedback for improved course concept comprehension and retention. In addition I designed and led study/review sessions for all students throughout the semester. 
+            Myself and a team of BBA and MSBA students analyzed and modeled various social drivers of vaccine hesitancy amongst Emory University's employee population. This analysis was then used in conjunction with social science theory to develop a COVID-19 education and vaccination campaign targeting employees of Emory University.
 
 
 
