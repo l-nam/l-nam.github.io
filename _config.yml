@@ -107,7 +107,7 @@ content:
         quote: >
           This is just a placeholder quote but something cooler and more relevant will go here soon.
         description: | # this will include new lines to allow paragraphs
-            I collaborated with a team of four other Teaching Assistants to develop supplemental course content for over 130 MBA and BBA students taking Negotiations at Emory University's Goizueta Business School. Student assignments were evaluated for knowledge gaps and individualized, actionable steps were given as feedback for improved course concept comprehension and retention. In addition I designed and led study/review sessions for all students throughout the semester. 
+            I collaborated with a team of four other Teaching Assistants to develop supplemental course content for <mark>over 130</mark> MBA and BBA students taking Negotiations at Emory University's Goizueta Business School. Student assignments were evaluated for knowledge gaps and individualized, actionable steps were given as feedback for improved course concept comprehension and retention. In addition I designed and led study/review sessions for all students throughout the semester. 
 
       - layout: left
         title: Emory University
@@ -118,7 +118,7 @@ content:
         quote: >
           Increased vaccine access through human-centered problem solving.
         description: | # this will include new lines to allow paragraphs
-            Myself and a team of BBA and MSBA students analyzed and modeled various social drivers of vaccine hesitancy amongst Emory University's employee population. This analysis was then used in conjunction with social science theory to develop a COVID-19 education and vaccination campaign targeting employees of Emory University.
+            Myself and a team of BBA and MSBA students analyzed and modeled various social drivers of vaccine hesitency amongst Emory University's employee population. Once key drivers were identified, our analysis was used in conjunction with social science theory to develop a COVID-19 education and vaccination campaign targeting employees of Emory University.
 
 
 
