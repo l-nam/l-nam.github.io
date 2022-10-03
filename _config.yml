@@ -88,7 +88,7 @@ content:
           Fitness For You.
 
         description: | # this will include new lines to allow paragraphs
-          Swét was a personalized fitness app aimed to radically disrupt the personal training industry by providing low-cost training with unmatched customization. Swét was an ongoing project completed as part of Applied Entrepeneurship and provided hands-on experience with <mark>customer segmentation, competitive analysis, user research, and marketing.</mark>
+          Swét was a personalized fitness app aimed to radically disrupt the personal training industry by providing low-cost training with unmatched customization. Though Swét never made it beyond a business model and mockup, the project provided hands-on experience with <mark>customer segmentation, competitive analysis, user research, and marketing.</mark>
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
